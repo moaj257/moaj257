@@ -6,10 +6,10 @@
 - 📫 How to reach me: [@moaj](https://www.behance.net/moaj257)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a psycho!
+### Show love :heart: by starring some repositories.
 
 ---
 ![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=moaj257&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
 ---
 ![Mohan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
 ---
-### Show love :heart: by starring some repositories.
