@@ -9,6 +9,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Movies App | React Native | Speed Code](https://www.youtube.com/watch?v=YzdDdIsa2s4)
+- [Auth UI | React Native | Speed Code](https://www.youtube.com/watch?v=AcoIu1iBsBA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCUY3TfO8urllfwV5KIHI7ZQ)
