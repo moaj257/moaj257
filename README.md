@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with UX, UI and Animations
 - 💬 Ask me about React or React Native
-- 📫 How to reach me: [@moaj](https://www.behance.net/moaj257)
+- 📫 How to reach me: [@moaj](https://www.behance.net/moaj257) & [@code](https://www.youtube.com/channel/UCUY3TfO8urllfwV5KIHI7ZQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a psycho!
 
