@@ -7,6 +7,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a psycho!
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCUY3TfO8urllfwV5KIHI7ZQ)
+
 ![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=moaj257&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&tme=d5as5da4sd45as54das54d54as5d4as54d)
 
 ![Mohan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
