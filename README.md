@@ -9,6 +9,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to install chocolatey in windows os | விண்டோஸ் இயக்க முறைமையில் சாக்லேட்டியை எவ்வாறு நிறுவுவது](https://www.youtube.com/watch?v=xDs73jHrevE)
+- [Job Portal App | React Native | Speed Code](https://www.youtube.com/watch?v=DGFN7JS-LEo)
 - [Movies App | React Native | Speed Code](https://www.youtube.com/watch?v=YzdDdIsa2s4)
 - [Auth UI | React Native | Speed Code](https://www.youtube.com/watch?v=AcoIu1iBsBA)
 <!-- YOUTUBE:END -->
