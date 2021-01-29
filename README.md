@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a psycho!
 
+### 📺 Follow me
+[![Mohan Raj's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/moaj257)
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [How to install chocolatey in windows os | விண்டோஸ் இயக்க முறைமையில் சாக்லேட்டியை எவ்வாறு நிறுவுவது](https://www.youtube.com/watch?v=xDs73jHrevE)
