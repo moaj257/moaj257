@@ -8,7 +8,9 @@
 - ⚡ Fun fact: I'm a psycho!
 
 ### 📺 Follow me
-[![Mohan Raj's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/moaj257)
+<a href="https://dev.to/moaj257">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohan Raj's DEV Community Profile" height="30" width="30">
+</a>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
